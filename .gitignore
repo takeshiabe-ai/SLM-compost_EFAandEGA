@@ -1,0 +1,11 @@
+# outputs (generated)
+outputs/
+
+# data: ignore everything except the explanation file
+data/*
+!data/DATA_README.md
+
+# R / IDE junk
+.Rhistory
+.RData
+.Rproj.user/
